@@ -1,0 +1,1 @@
+countprimes(10,1000,tuplet=6)
